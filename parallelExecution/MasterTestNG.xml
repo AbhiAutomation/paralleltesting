@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" thread-count="3">
+	<suite-files>
+		<suite-file path="TestClass1.xml"></suite-file>
+		<suite-file path="TestClass2.xml"></suite-file>
+		<suite-file path="TestClass3.xml"></suite-file>
+		<suite-file path="TestClass4.xml"></suite-file>
+	</suite-files>
+</suite> <!--
+Suite -->
